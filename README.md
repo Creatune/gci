@@ -1,3 +1,3 @@
 # gci
 
-My First Repository
+Hello Sugar Labs
